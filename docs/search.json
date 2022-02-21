@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about-the-authors.html#andrie-de-vries",
+    "href": "about-the-authors.html#andrie-de-vries",
+    "title": "About the authors",
+    "section": "Andrie de Vries",
+    "text": "Andrie de Vries\nAndrie started to use R in 2009 to analyze survey data, and he has been continually impressed by the ability of the open source community to innovate and create phenomenal software.\nAndrie is director of PentaLibra, a boutique market research firm specializing in surveys and statistical analysis. He has contributed two R packages to CRAN and is developing several packages to make the analysis and reporting of survey data easier. He is also actively involved in the development of LimeSurvey, the open source survey management system.\nTo maintain equilibrium in his life, he is studying towards a Yoga teacher diploma at the Krishnamacharya Healing and Yoga foundation."
+  },
+  {
+    "objectID": "about-the-authors.html#joris-meys",
+    "href": "about-the-authors.html#joris-meys",
+    "title": "About the authors",
+    "section": "Joris Meys",
+    "text": "Joris Meys\nJoris is a statistical consultant and R programmer in the department of Mathematical Modelling, Statistics and Bioinformatics at Ghent University (Belgium).\nAfter completing a masters degree in Biology, he worked six years both in environmental research and management before starting an advanced master in Statistical Data Analysis. Joris writes packages for both specific projects and general implementation of methods developed at his department, and is the maintainer of several packages on R-Forge. He co-authored as statistical expert on a number of scientific papers.\nTo balance science with culture, he spends most of his spare time playing saxophone in a couple of local bands."
+  },
+  {
+    "objectID": "about-the-book.html",
+    "href": "about-the-book.html",
+    "title": "About the book",
+    "section": "",
+    "text": "With more than two million users, R is the open-source programming language standard for data analysis and statistical modeling. R is packed with powerful programming capabilities, but learning to use R in the real world can be overwhelming for even the most seasoned statisticians.\nR for Dummies is an easy-to-follow guide that explains how to use R for data processing and statistical analysis. It also gets you started with presenting your data with compelling and informative graphics. You’ll gain practical experience of using R in a variety of settings and get familiar with some powerful R data analysis tools.\nIn R for Dummies you can find out more about:\n\nTips for the initial installation of R\nHow to easily perform calculations on vectors, arrays, and lists of data\nHow to effectively visualize data using R’s powerful graphics packages\nHow to find, install, and use add-on packages created by the R community\nGetting additional help from R mailing lists and website"
+  },
+  {
+    "objectID": "index.html#the-worlds-fastest-growing-statistical-programming-language",
+    "href": "index.html#the-worlds-fastest-growing-statistical-programming-language",
+    "title": "Start using R",
+    "section": "The world’s fastest growing statistical programming language",
+    "text": "The world’s fastest growing statistical programming language\nMastering data analysis is easy with R for Dummies - the perfect guide to get you started."
+  },
+  {
+    "objectID": "table-of-contents.html#introduction",
+    "href": "table-of-contents.html#introduction",
+    "title": "Table of Contents",
+    "section": "Introduction",
+    "text": "Introduction"
+  },
+  {
+    "objectID": "table-of-contents.html#part-i-r-you-ready",
+    "href": "table-of-contents.html#part-i-r-you-ready",
+    "title": "Table of Contents",
+    "section": "Part I: R You Ready?",
+    "text": "Part I: R You Ready?\n\nChapter 1: Introducing R: The Big Picture\nChapter 2: Exploring R\nChapter 3: The Fundamentals of R"
+  },
+  {
+    "objectID": "table-of-contents.html#part-ii-getting-down-to-work-in-r",
+    "href": "table-of-contents.html#part-ii-getting-down-to-work-in-r",
+    "title": "Table of Contents",
+    "section": "Part II: Getting Down to Work in R",
+    "text": "Part II: Getting Down to Work in R\n\nChapter 4: Getting Started with Arithmetic\nChapter 5: Getting Started with Reading and Writing\nChapter 6: Going on a Date with R\nChapter 7: Working in More Dimensions"
+  },
+  {
+    "objectID": "table-of-contents.html#part-iii-coding-in-r",
+    "href": "table-of-contents.html#part-iii-coding-in-r",
+    "title": "Table of Contents",
+    "section": "Part III: Coding in R",
+    "text": "Part III: Coding in R\n\nChapter 8: Putting the Fun in Functions\nChapter 9: Controlling the Logical Flow\nChapter 10: Debugging Your Code\nChapter 11: Getting Help"
+  },
+  {
+    "objectID": "table-of-contents.html#part-iv-making-the-data-talk",
+    "href": "table-of-contents.html#part-iv-making-the-data-talk",
+    "title": "Table of Contents",
+    "section": "Part IV: Making the Data Talk",
+    "text": "Part IV: Making the Data Talk\n\nChapter 12: Getting Data into and out of R\nChapter 13: Manipulating and Processing Data\nChapter 14: Summarizing Data\nChapter 15: Testing Differences and Relations"
+  },
+  {
+    "objectID": "table-of-contents.html#part-v-working-with-graphics",
+    "href": "table-of-contents.html#part-v-working-with-graphics",
+    "title": "Table of Contents",
+    "section": "Part V: Working with Graphics",
+    "text": "Part V: Working with Graphics\n\nChapter 16: Using Base Graphics\nChapter 17: Creating Faceted Graphics with Lattice\nChapter 18: Looking At ggplot2 Graphics"
+  },
+  {
+    "objectID": "table-of-contents.html#part-vi-the-part-of-tens",
+    "href": "table-of-contents.html#part-vi-the-part-of-tens",
+    "title": "Table of Contents",
+    "section": "Part VI: The Part of Tens",
+    "text": "Part VI: The Part of Tens\n\nChapter 19: Ten Things You Can Do in R That You Would’ve Done in Microsoft Excel\nChapter 20: Ten Tips on Working with Packages"
+  },
+  {
+    "objectID": "table-of-contents.html#appendix-installing-r-and-rstudio",
+    "href": "table-of-contents.html#appendix-installing-r-and-rstudio",
+    "title": "Table of Contents",
+    "section": "Appendix: Installing R and RStudio",
+    "text": "Appendix: Installing R and RStudio"
+  }
+]
