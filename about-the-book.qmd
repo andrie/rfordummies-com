@@ -16,4 +16,4 @@ In *R for Dummies* you can find out more about:
 
 -   How to find, install, and use add-on packages created by the R community
 
--    Getting additional help from R mailing lists and website
+-   Getting additional help from R mailing lists and website
