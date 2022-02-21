@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "R for Dummies"
+  navbar:
+    type: dark
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - sidebar:about
+      
+  sidebar:
+    - id: about
+      title: "About the book"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - href: about-the-book.qmd
+        - href: table-of-contents.qmd
+        - href: about-the-authors.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

@@ -1,0 +1,19 @@
+---
+title: "About the book"
+---
+
+With more than two million users, R is the open-source programming language standard for data analysis and statistical modeling. R is packed with powerful programming capabilities, but learning to use R in the real world can be overwhelming for even the most seasoned statisticians.
+
+*R for Dummies* is an easy-to-follow guide that explains how to use R for data processing and statistical analysis. It also gets you started with presenting your data with compelling and informative graphics. You'll gain practical experience of using R in a variety of settings and get familiar with some powerful R data analysis tools.
+
+In *R for Dummies* you can find out more about:
+
+-   Tips for the initial installation of R
+
+-   How to easily perform calculations on vectors, arrays, and lists of data
+
+-   How to effectively visualize data using R's powerful graphics packages
+
+-   How to find, install, and use add-on packages created by the R community
+
+-    Getting additional help from R mailing lists and website

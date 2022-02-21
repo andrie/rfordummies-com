@@ -1,0 +1,45 @@
+---
+title: "Table of Contents"
+---
+
+## Introduction
+
+## Part I: R You Ready?
+
+- Chapter 1: Introducing R: The Big Picture
+- Chapter 2: Exploring R
+- Chapter 3: The Fundamentals of R
+
+## Part II: Getting Down to Work in R
+
+- Chapter 4: Getting Started with Arithmetic
+- Chapter 5: Getting Started with Reading and Writing
+- Chapter 6: Going on a Date with R
+- Chapter 7: Working in More Dimensions
+
+## Part III: Coding in R
+
+- Chapter 8: Putting the Fun in Functions
+- Chapter 9: Controlling the Logical Flow
+- Chapter 10: Debugging Your Code
+- Chapter 11: Getting Help
+
+## Part IV: Making the Data Talk
+
+- Chapter 12: Getting Data into and out of R
+- Chapter 13: Manipulating and Processing Data
+- Chapter 14: Summarizing Data
+- Chapter 15: Testing Differences and Relations
+
+## Part V: Working with Graphics
+
+- Chapter 16: Using Base Graphics
+- Chapter 17: Creating Faceted Graphics with Lattice
+- Chapter 18: Looking At ggplot2 Graphics
+
+## Part VI: The Part of Tens
+
+- Chapter 19: Ten Things You Can Do in R That You Would’ve Done in Microsoft Excel
+- Chapter 20: Ten Tips on Working with Packages
+
+## Appendix: Installing R and RStudio

@@ -1,0 +1,7 @@
+---
+title: "Start using R"
+---
+
+## The world's fastest growing statistical programming language
+
+Mastering data analysis is easy with R for Dummies - the perfect guide to get you started.
