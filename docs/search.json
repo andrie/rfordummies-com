@@ -21,11 +21,25 @@
     "text": "With more than two million users, R is the open-source programming language standard for data analysis and statistical modeling. R is packed with powerful programming capabilities, but learning to use R in the real world can be overwhelming for even the most seasoned statisticians.\nR for Dummies is an easy-to-follow guide that explains how to use R for data processing and statistical analysis. It also gets you started with presenting your data with compelling and informative graphics. You’ll gain practical experience of using R in a variety of settings and get familiar with some powerful R data analysis tools.\nIn R for Dummies you can find out more about:\n\nTips for the initial installation of R\nHow to easily perform calculations on vectors, arrays, and lists of data\nHow to effectively visualize data using R’s powerful graphics packages\nHow to find, install, and use add-on packages created by the R community\nGetting additional help from R mailing lists and website"
   },
   {
+    "objectID": "get-the-book.html",
+    "href": "get-the-book.html",
+    "title": "Get the book",
+    "section": "",
+    "text": "Getting to grips with R can be tough, even for seasoned statisticians and data analysts. Enter R For Dummies, the quick, easy way to learn R.\n\n\nDo you want to know more?\n\nView the table of contents\nFind out more about the authors\nTake a look inside the book\n\nReading R for Dummies requires no prior programming experience. The book is packed with practical examples, easy, step-by-step exercises and sample code. This makes R for Dummies the ideal introduction to R for complete beginners. It also covers many concepts that intermediate-level programmers will find extremely useful.\nR for Dummies is available in good book stores and a variety of online retailers. You can get it now at Amazon:\n\n\nAmazon.co.uk\n\n\n\nAmazon.com"
+  },
+  {
     "objectID": "index.html#the-worlds-fastest-growing-statistical-programming-language",
     "href": "index.html#the-worlds-fastest-growing-statistical-programming-language",
     "title": "Start using R",
     "section": "The world’s fastest growing statistical programming language",
-    "text": "The world’s fastest growing statistical programming language\nMastering data analysis is easy with R for Dummies - the perfect guide to get you started."
+    "text": "The world’s fastest growing statistical programming language\nMastering data analysis is easy with R for Dummies - the perfect guide to get you started.\nGet the book"
+  },
+  {
+    "objectID": "reviews.html",
+    "href": "reviews.html",
+    "title": "Reviews",
+    "section": "",
+    "text": "Reviewers have been very complementary about R for Dummies. Here are some of their reviews:\n\nThe “Dummies” series is popular for introducing specific topics in an inviting way. R For Dummies is a worthy addition to the pack. [R for Dummies is] pretty much all I’d hoped for — and I had high hopes.\n– Patrick Burns, Portfolio Probe\n\n\nGiven the series’ reputation, R for Dummies should be suited for readers with little or no experience in programming or R. After a cover to cover read, I can say that this book delivers. It helps to have some experience with a command line interface paradigm (in other words, you should not be afraid of typing commands into the computer) or at the least, to be susceptible to some new concepts. The book guides the reader through every step from a blinking console cursor to a handsome trellis graphic and assumes no prior experience with R.\n– Roman Lustrik, Amazon.com\n\n\nFor someone like me who hadn’t any experience with programming, but a deep desire to a) understand how it works conceptually and b) learn to do some basic programs to analyze data, this book has been a real delight. It takes you through each step without making any assumptions about your knowledge, but at the end of each chapter I had always learned a lot.\n– G.M. Melis, Amazon.com"
   },
   {
     "objectID": "table-of-contents.html#introduction",

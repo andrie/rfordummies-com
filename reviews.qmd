@@ -1,0 +1,18 @@
+---
+title: "Reviews"
+---
+
+Reviewers have been very complementary about R for Dummies. Here are some of their reviews:
+
+> The “Dummies” series is popular for introducing specific topics in an inviting way.  R For Dummies is a worthy addition to the pack.
+> [R for Dummies is] pretty much all I’d hoped for — and I had high hopes.
+>
+> – Patrick Burns, Portfolio Probe
+
+> Given the series’ reputation, R for Dummies should be suited for readers with little or no experience in programming or R. After a cover to cover read, I can say that this book delivers. It helps to have some experience with a command line interface paradigm (in other words, you should not be afraid of typing commands into the computer) or at the least, to be susceptible to some new concepts. The book guides the reader through every step from a blinking console cursor to a handsome trellis graphic and assumes no prior experience with R.
+> 
+> – Roman Lustrik, Amazon.com
+
+> For someone like me who hadn’t any experience with programming, but a deep desire to a) understand how it works conceptually and b) learn to do some basic programs to analyze data, this book has been a real delight. It takes you through each step without making any assumptions about your knowledge, but at the end of each chapter I had always learned a lot.
+>
+> – G.M. Melis, Amazon.com

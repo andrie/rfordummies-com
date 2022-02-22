@@ -11,6 +11,10 @@ website:
       - href: index.qmd
         text: Home
       - sidebar:about
+      - href: reviews.qmd
+        text: Reviews
+      - href: get-the-book.qmd
+        text: Get the book
       
   sidebar:
     - id: about
