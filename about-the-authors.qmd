@@ -2,6 +2,10 @@
 title: "About the authors"
 ---
 
+::: r-col-2
+
+::: r-col-card
+
 ## Andrie de Vries
 
 Andrie started to use R in 2009 to analyze survey data, and he has been continually impressed by the ability of the open source community to innovate and create phenomenal software.
@@ -12,6 +16,11 @@ To maintain equilibrium in his life, he is studying towards a Yoga teacher diplo
 
 <a href="https://stackoverflow.com/users/602276/andrie"><img src="https://stackoverflow.com/users/flair/602276.png" title="profile for Andrie at Stack Overflow, Q&amp;A for professional and enthusiast programmers" alt="profile for Andrie at Stack Overflow, Q&amp;A for professional and enthusiast programmers" width="208" height="58"/></a>
 
+:::
+
+
+::: r-col-card
+
 ## Joris Meys
 
 Joris is a statistical consultant and R programmer in the department of Mathematical Modelling, Statistics and Bioinformatics at Ghent University (Belgium).
@@ -21,3 +30,7 @@ After completing a masters degree in Biology, he worked six years both in enviro
 To balance science with culture, he spends most of his spare time playing saxophone in a couple of local bands.
 
 <a href="https://stackoverflow.com/users/428790/joris-meys"><img src="https://stackoverflow.com/users/flair/428790.png" title="profile for Joris at Stack Overflow, Q&amp;A for professional and enthusiast programmers" alt="profile for Joris at Stack Overflow, Q&amp;A for professional and enthusiast programmers" width="208" height="58"/></a>
+
+:::
+
+:::

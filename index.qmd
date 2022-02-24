@@ -2,9 +2,9 @@
 title: "Start using R"
 ---
 
-::: {.grid}
+::: r-col-2
 
-::: {.g-col-6}
+::: r-col-card
 ## The world's fastest growing statistical programming language
 
 Mastering data analysis is easy with R for Dummies - the perfect guide to get you started.
@@ -14,7 +14,7 @@ Mastering data analysis is easy with R for Dummies - the perfect guide to get yo
 :::
 
 
-::: {.g-col-6}
+::: r-col-card
 
 ![R for Dummies, 2nd edition, cover page](images/R-for-dummies-2nd-ed-cover.jpg){fig-align="center"}
 
@@ -23,21 +23,25 @@ Mastering data analysis is easy with R for Dummies - the perfect guide to get yo
 :::
 
 
-::: {.grid}
 
-::: {.g-col-4}
+
+::: r-col-3
+
+::: r-col-card
 Start using R, free software for statistics
 
 ![](images/icon-R.png){fig-align="center"}
 :::
 
-::: {.g-col-4}
+
+
+::: r-col-card
 Use R for data analysis and statistics.
 
 ![](images/icon-data-analysis.png){fig-align="center"}
 :::
 
-::: {.g-col-4}
+::: r-col-card
 Use R to create informative graphics.
 
 ![](images/icon-graphics.png){fig-align="center"}

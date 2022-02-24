@@ -3,7 +3,71 @@
 $navbar-bg: #3e3e3e;
 $navbar-fg: white;
 
+/*-- scss:rules --*/
+
 nav.sidebar {
   background-image: linear-gradient(yellow, white);
 }
 
+
+.r-col-card {
+  border: solid grey 1px;
+  margin: 0.5em;
+  padding: 0.5em;
+  background-image: linear-gradient(#efefef, white);
+}
+
+
+.r-col-4 {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.5em;
+}
+
+@include media-breakpoint-down(md) {
+  .r-col-4 {
+  display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5em;
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .r-col-4 {
+  display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5em;
+  }
+}
+
+
+
+.r-col-3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5em;
+}
+
+@include media-breakpoint-down(sm) {
+  .r-col-3 {
+  display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5em;
+  }
+}
+
+
+
+.r-col-2 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.5em;
+}
+
+@include media-breakpoint-down(sm) {
+  .r-col-2 {
+  display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5em;
+  }
+}
