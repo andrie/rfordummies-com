@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - CNAME
+    - .nojekyll
 
 website:
   # title: "R for dummies"
@@ -28,7 +31,6 @@ website:
 
 format:
   html:
-    # theme: cosmo
     theme: [cosmo, styles.scss]
     #css: styles.css
 
