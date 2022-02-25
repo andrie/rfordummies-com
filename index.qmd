@@ -22,17 +22,17 @@ source("R/rstyles.R")
 r_col_3(
   r_col_card_img(
     content = "Start using R, free software for statistics", 
-    img_src = "images/icon-r.png",
+    img_src = "/images/icon-R.png",
     img_alt = "R language icon"
   ),
   r_col_card_img(
     content = "Use R for data analysis and statistics", 
-    img_src = "images/icon-data-analysis.png",
+    img_src = "/images/icon-data-analysis.png",
     img_alt = "Graphics icon"
   ),
   r_col_card_img(
     content = "Use R to create informative graphics", 
-    img_src = "images/icon-graphics.png",
+    img_src = "/images/icon-graphics.png",
     img_alt = "Graphics icon"
   )
   
