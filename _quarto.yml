@@ -3,19 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "R for Dummies"
+  title: |
+        ![R for Dummies](/images/RforDummies-small-logo.png)
   navbar:
     type: dark
     background: primary
     left:
-      - href: index.qmd
-        text: Home
       - sidebar:about
       - href: reviews.qmd
         text: Reviews
       - href: get-the-book.qmd
         text: Get the book
-      
+  body-header: | 
+        
+  
   sidebar:
     - id: about
       title: "About the book"
@@ -29,7 +30,8 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.scss] 
+    # theme: cosmo
+    theme: [cosmo, styles.scss]
     #css: styles.css
 
 

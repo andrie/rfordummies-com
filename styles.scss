@@ -5,6 +5,17 @@ $navbar-fg: white;
 
 /*-- scss:rules --*/
 
+
+.navbar, .navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+}
+
+#quarto-header nav {
+  padding-left:0;
+}
+
 nav.sidebar {
   background-image: linear-gradient(yellow, white);
 }
@@ -21,14 +32,14 @@ nav.sidebar {
 .r-col-4 {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 1.5em;
+  gap: 1.0m;
 }
 
 @include media-breakpoint-down(md) {
   .r-col-4 {
   display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1.5em;
+    gap: 1.0em;
   }
 }
 
@@ -36,7 +47,7 @@ nav.sidebar {
   .r-col-4 {
   display: grid;
     grid-template-columns: minmax(0, 1fr);
-    gap: 1.5em;
+    gap: 1.0em;
   }
 }
 
@@ -45,14 +56,14 @@ nav.sidebar {
 .r-col-3 {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1.5em;
+  gap: 1.0em;
 }
 
 @include media-breakpoint-down(sm) {
   .r-col-3 {
   display: grid;
     grid-template-columns: minmax(0, 1fr);
-    gap: 1.5em;
+    gap: 1.0em;
   }
 }
 
@@ -61,13 +72,13 @@ nav.sidebar {
 .r-col-2 {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.5em;
+  gap: 1.0em;
 }
 
 @include media-breakpoint-down(sm) {
   .r-col-2 {
   display: grid;
     grid-template-columns: minmax(0, 1fr);
-    gap: 1.5em;
+    gap: 1.0em;
   }
 }

@@ -3,48 +3,38 @@ title: "Start using R"
 ---
 
 ::: r-col-2
-
 ::: r-col-card
 ## The world's fastest growing statistical programming language
 
-Mastering data analysis is easy with R for Dummies - the perfect guide to get you started.
+Mastering data analysis is easy with *R for Dummies* - the perfect guide to get you started.
 
-<a class="btn btn-primary" href="get-the-book.html" role="button">Get the book</a>
-
-:::
-
-
-::: r-col-card
-
-![R for Dummies, 2nd edition, cover page](images/R-for-dummies-2nd-ed-cover.jpg){fig-align="center"}
-
-:::
-
-:::
-
-
-
-
-::: r-col-3
-
-::: r-col-card
-Start using R, free software for statistics
-
-![](images/icon-R.png){fig-align="center"}
-:::
-
-
-
-::: r-col-card
-Use R for data analysis and statistics.
-
-![](images/icon-data-analysis.png){fig-align="center"}
+<a class="btn btn-primary" href="get-the-book.qmd" role="button">Get the book</a>
 :::
 
 ::: r-col-card
-Use R to create informative graphics.
-
-![](images/icon-graphics.png){fig-align="center"}
+[![R for Dummies, 2nd edition, cover page](images/R-for-dummies-2nd-ed-cover.jpg){fig-alt="R for Dummies, 2nd edition, cover page" fig-align="center"}](get-the-book.qmd)
+:::
 :::
 
-:::
+```{r}
+#| echo: false
+source("R/rstyles.R")
+r_col_3(
+  r_col_card_img(
+    content = "Start using R, free software for statistics", 
+    img_src = "images/icon-r.png",
+    img_alt = "R language icon"
+  ),
+  r_col_card_img(
+    content = "Use R for data analysis and statistics", 
+    img_src = "images/icon-data-analysis.png",
+    img_alt = "Graphics icon"
+  ),
+  r_col_card_img(
+    content = "Use R to create informative graphics", 
+    img_src = "images/icon-graphics.png",
+    img_alt = "Graphics icon"
+  )
+  
+)
+```
