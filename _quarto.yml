@@ -3,20 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: |
-        ![R for Dummies](/images/RforDummies-small-logo.png)
+  # title: "R for dummies"
   navbar:
     type: dark
     background: primary
+    logo: /images/RforDummies-small-logo.png
     left:
       - sidebar:about
       - href: reviews.qmd
         text: Reviews
       - href: get-the-book.qmd
         text: Get the book
-  body-header: | 
-        
-  
+
   sidebar:
     - id: about
       title: "About the book"
